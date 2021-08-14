@@ -1,5 +1,12 @@
+## Currently Collected Projects
+
+### List
 {{range .Data.RepositoryOwner.Repositories.Edges}}
-**{{.Node.Name}}** ({{.Node.PrimaryLanguage.PrimaryLanguage}})  
+- [{{.Node.Name}} ({{.Node.PrimaryLanguage.PrimaryLanguage}})](#{{.Node.Name}}){{end}}
+
+### Details
+{{range .Data.RepositoryOwner.Repositories.Edges}}
+<a name="{{.Node.Name}}"/>**{{.Node.Name}}** ({{.Node.PrimaryLanguage.PrimaryLanguage}})  
 {{.Node.Url}}  
 {{if .Node.Description}}{{.Node.Description }}{{else}}No description{{end}}
 {{end}}
