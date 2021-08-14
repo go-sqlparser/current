@@ -1,5 +1,5 @@
 {{range .Data.RepositoryOwner.Repositories.Edges}}
 **{{.Node.Name}}** ({{.Node.PrimaryLanguage.PrimaryLanguage}})  
 {{.Node.Url}}  
-{{.Node.Description }}
+{{if .Node.Description}}{{.Node.Description }}{{else}}No description{{end}}
 {{end}}
