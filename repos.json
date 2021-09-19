@@ -54,7 +54,7 @@
               "Url": "https://github.com/go-sqlparser/antlr4-grammars",
               "Description": "Precompiled Go versions of most of the grammars on https://github.com/antlr/grammars-v4.",
               "CreatedAt": "2021-08-08T14:09:08Z",
-              "UpdatedAt": "2021-08-12T04:07:51Z",
+              "UpdatedAt": "2021-09-18T03:26:43Z",
               "Stargazers": {
                 "Stars": 0
               },
@@ -99,7 +99,7 @@
               "Url": "https://github.com/go-sqlparser/current",
               "Description": "Current Collections",
               "CreatedAt": "2021-08-05T14:44:32Z",
-              "UpdatedAt": "2021-08-15T04:44:04Z",
+              "UpdatedAt": "2021-08-15T04:49:59Z",
               "Stargazers": {
                 "Stars": 0
               },
@@ -159,7 +159,7 @@
               "Url": "https://github.com/go-sqlparser/go-antlr-practices",
               "Description": "Go ANTLR Practice Code",
               "CreatedAt": "2021-08-12T04:13:16Z",
-              "UpdatedAt": "2021-08-15T04:01:05Z",
+              "UpdatedAt": "2021-09-19T03:13:51Z",
               "Stargazers": {
                 "Stars": 0
               },
@@ -502,11 +502,11 @@
             "Node": {
               "Name": "sqlpparser",
               "Url": "https://github.com/go-sqlparser/sqlpparser",
-              "Description": "A simple (limited) SQL Parser",
+              "Description": "A simple (limited) SQL Parser in Peg",
               "CreatedAt": "2021-08-05T02:57:13Z",
-              "UpdatedAt": "2021-08-05T13:02:38Z",
+              "UpdatedAt": "2021-09-16T19:39:23Z",
               "Stargazers": {
-                "Stars": 0
+                "Stars": 1
               },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
