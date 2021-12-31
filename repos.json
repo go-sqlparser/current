@@ -8,11 +8,6 @@
               "Name": "ANTLERParser",
               "Url": "https://github.com/go-sqlparser/ANTLERParser",
               "Description": "DOT, DOTPrettyPrintListener",
-              "CreatedAt": "2021-08-13T04:56:57Z",
-              "UpdatedAt": "2021-08-15T04:10:33Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Java"
               }
@@ -23,11 +18,6 @@
               "Name": "antlr4",
               "Url": "https://github.com/go-sqlparser/antlr4",
               "Description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
-              "CreatedAt": "2021-08-12T03:57:50Z",
-              "UpdatedAt": "2021-08-12T03:57:51Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Java"
               }
@@ -38,11 +28,6 @@
               "Name": "antlr4-demo",
               "Url": "https://github.com/go-sqlparser/antlr4-demo",
               "Description": "antlr4 go语言的demo",
-              "CreatedAt": "2021-08-12T23:57:05Z",
-              "UpdatedAt": "2021-08-12T23:57:06Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -53,11 +38,6 @@
               "Name": "antlr4-grammars",
               "Url": "https://github.com/go-sqlparser/antlr4-grammars",
               "Description": "Precompiled Go versions of most of the grammars on https://github.com/antlr/grammars-v4.",
-              "CreatedAt": "2021-08-08T14:09:08Z",
-              "UpdatedAt": "2021-09-18T03:26:43Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -68,11 +48,6 @@
               "Name": "blog-code",
               "Url": "https://github.com/go-sqlparser/blog-code",
               "Description": "A place to store source code that is relevant to my blog posts.",
-              "CreatedAt": "2021-08-08T14:31:12Z",
-              "UpdatedAt": "2021-08-08T14:31:13Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -83,11 +58,6 @@
               "Name": "compiler",
               "Url": "https://github.com/go-sqlparser/compiler",
               "Description": "Example of Rob Pike's Lexical Scanning in Go",
-              "CreatedAt": "2021-08-05T22:57:31Z",
-              "UpdatedAt": "2021-08-15T04:16:16Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -98,11 +68,6 @@
               "Name": "current",
               "Url": "https://github.com/go-sqlparser/current",
               "Description": "Current Collections",
-              "CreatedAt": "2021-08-05T14:44:32Z",
-              "UpdatedAt": "2021-08-15T04:49:59Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -113,13 +78,18 @@
               "Name": "dot4j",
               "Url": "https://github.com/go-sqlparser/dot4j",
               "Description": "A Java library for GraphViz DOT which enables both read and write of DOT files",
-              "CreatedAt": "2021-08-13T20:02:51Z",
-              "UpdatedAt": "2021-08-13T20:02:52Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Java"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "erd-go",
+              "Url": "https://github.com/go-sqlparser/erd-go",
+              "Description": "Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.(convert to dot file)",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "Go"
               }
             }
           },
@@ -128,11 +98,6 @@
               "Name": "gisp",
               "Url": "https://github.com/go-sqlparser/gisp",
               "Description": "Simple LISP in Go",
-              "CreatedAt": "2021-08-05T22:57:07Z",
-              "UpdatedAt": "2021-08-05T22:57:08Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -143,11 +108,6 @@
               "Name": "go-antlr-collections",
               "Url": "https://github.com/go-sqlparser/go-antlr-collections",
               "Description": "Go ANTLR Misc Code Collections",
-              "CreatedAt": "2021-08-15T04:24:49Z",
-              "UpdatedAt": "2021-08-15T04:36:08Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Java"
               }
@@ -158,11 +118,6 @@
               "Name": "go-antlr-practices",
               "Url": "https://github.com/go-sqlparser/go-antlr-practices",
               "Description": "Go ANTLR Practice Code",
-              "CreatedAt": "2021-08-12T04:13:16Z",
-              "UpdatedAt": "2021-09-19T03:13:51Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -173,11 +128,6 @@
               "Name": "go-lexer",
               "Url": "https://github.com/go-sqlparser/go-lexer",
               "Description": "Lexer based on Rob Pike's talk on YouTube (view README)",
-              "CreatedAt": "2021-08-07T15:36:09Z",
-              "UpdatedAt": "2021-08-07T15:36:10Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -188,11 +138,6 @@
               "Name": "goadvent-antlr",
               "Url": "https://github.com/go-sqlparser/goadvent-antlr",
               "Description": "Examples from my goadvent blog post",
-              "CreatedAt": "2021-08-07T19:13:22Z",
-              "UpdatedAt": "2021-08-13T04:24:32Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -203,11 +148,6 @@
               "Name": "GoPlayWithCompiler",
               "Url": "https://github.com/go-sqlparser/GoPlayWithCompiler",
               "Description": "编译原理之美-宫文学 golang实现版本",
-              "CreatedAt": "2021-08-09T17:33:03Z",
-              "UpdatedAt": "2021-08-09T17:33:04Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -218,11 +158,6 @@
               "Name": "goyacc-sample",
               "Url": "https://github.com/go-sqlparser/goyacc-sample",
               "Description": "goyacc sample",
-              "CreatedAt": "2021-08-07T15:49:16Z",
-              "UpdatedAt": "2021-08-07T15:49:19Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -233,11 +168,6 @@
               "Name": "GraphVizDotToDatabaseParsing",
               "Url": "https://github.com/go-sqlparser/GraphVizDotToDatabaseParsing",
               "Description": "GVA System, Graphviz Analyer System, from a Graphviz file to output the underlying feature of the graph.",
-              "CreatedAt": "2021-08-13T04:55:12Z",
-              "UpdatedAt": "2021-08-15T04:12:22Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Python"
               }
@@ -247,12 +177,7 @@
             "Node": {
               "Name": "jsonpath",
               "Url": "https://github.com/go-sqlparser/jsonpath",
-              "Description": null,
-              "CreatedAt": "2021-08-05T23:15:55Z",
-              "UpdatedAt": "2021-08-05T23:15:57Z",
-              "Stargazers": {
-                "Stars": 0
-              },
+              "Description": "jsonpath cli in Go",
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -263,11 +188,6 @@
               "Name": "LanguageWithGoAndAntlr",
               "Url": "https://github.com/go-sqlparser/LanguageWithGoAndAntlr",
               "Description": " 算术运算, 比较操作, 逻辑运算/语句",
-              "CreatedAt": "2021-08-09T15:46:30Z",
-              "UpdatedAt": "2021-08-15T04:08:51Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -278,11 +198,6 @@
               "Name": "leg",
               "Url": "https://github.com/go-sqlparser/leg",
               "Description": "Leg grammar in Go, derived from Peg",
-              "CreatedAt": "2021-08-05T13:44:27Z",
-              "UpdatedAt": "2021-08-15T04:04:16Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -293,13 +208,18 @@
               "Name": "lexer",
               "Url": "https://github.com/go-sqlparser/lexer",
               "Description": "Example of Rob Pike's Lexical Scanning in Go on JavaScript",
-              "CreatedAt": "2021-08-05T23:00:27Z",
-              "UpdatedAt": "2021-08-15T04:18:13Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "JavaScript"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "minio",
+              "Url": "https://github.com/go-sqlparser/minio",
+              "Description": "High Performance, Kubernetes Native Object Storage",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "Go"
               }
             }
           },
@@ -308,11 +228,6 @@
               "Name": "mson",
               "Url": "https://github.com/go-sqlparser/mson",
               "Description": "A parser for MongoDB shell \"dumps\"",
-              "CreatedAt": "2021-08-07T18:40:37Z",
-              "UpdatedAt": "2021-08-07T18:40:38Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -323,11 +238,6 @@
               "Name": "peg",
               "Url": "https://github.com/go-sqlparser/peg",
               "Description": "Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.",
-              "CreatedAt": "2021-08-05T15:00:03Z",
-              "UpdatedAt": "2021-08-05T15:00:04Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -338,11 +248,6 @@
               "Name": "Petri-Nets-Visualisation",
               "Url": "https://github.com/go-sqlparser/Petri-Nets-Visualisation",
               "Description": "Dot file parser in C#",
-              "CreatedAt": "2021-08-13T04:36:27Z",
-              "UpdatedAt": "2021-08-15T04:20:00Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "C#"
               }
@@ -353,11 +258,6 @@
               "Name": "pgoparser",
               "Url": "https://github.com/go-sqlparser/pgoparser",
               "Description": "PostgreSQL parser written in pure go.",
-              "CreatedAt": "2021-08-05T13:03:20Z",
-              "UpdatedAt": "2021-08-05T13:03:21Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -368,11 +268,6 @@
               "Name": "PlayAST",
               "Url": "https://github.com/go-sqlparser/PlayAST",
               "Description": "抽象语法树的设计与实现 ( PlayAST : Play With Abstract Syntax Tree )",
-              "CreatedAt": "2021-08-05T03:24:25Z",
-              "UpdatedAt": "2021-08-05T03:24:26Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "JavaScript"
               }
@@ -383,11 +278,6 @@
               "Name": "pling",
               "Url": "https://github.com/go-sqlparser/pling",
               "Description": "build mode from PL/SQL file.",
-              "CreatedAt": "2021-08-09T17:02:43Z",
-              "UpdatedAt": "2021-08-09T17:02:44Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -398,11 +288,6 @@
               "Name": "simplelang",
               "Url": "https://github.com/go-sqlparser/simplelang",
               "Description": "Simple programming language created using antlr4 and llvm",
-              "CreatedAt": "2021-08-09T17:29:56Z",
-              "UpdatedAt": "2021-08-09T17:29:57Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -413,11 +298,6 @@
               "Name": "sprocbind",
               "Url": "https://github.com/go-sqlparser/sprocbind",
               "Description": "Generates Golang bindings to MSSQL stored procedures, including TVP",
-              "CreatedAt": "2021-08-09T19:04:17Z",
-              "UpdatedAt": "2021-08-09T19:04:18Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -428,11 +308,6 @@
               "Name": "sql",
               "Url": "https://github.com/go-sqlparser/sql",
               "Description": "Package sql provides a meta-model and parsers for different sql dialects.",
-              "CreatedAt": "2021-08-12T23:32:11Z",
-              "UpdatedAt": "2021-08-12T23:32:12Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -443,11 +318,6 @@
               "Name": "sql-parser",
               "Url": "https://github.com/go-sqlparser/sql-parser",
               "Description": "A Go library for lexing and parsing SQL strings and streams",
-              "CreatedAt": "2021-08-05T23:07:16Z",
-              "UpdatedAt": "2021-08-05T23:07:17Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -458,11 +328,6 @@
               "Name": "sql-to-gorm",
               "Url": "https://github.com/go-sqlparser/sql-to-gorm",
               "Description": "Convert create table sql to a gorm struct. 将建表sql转换为gorm的结构。",
-              "CreatedAt": "2021-08-09T17:11:59Z",
-              "UpdatedAt": "2021-08-09T17:12:00Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -473,11 +338,6 @@
               "Name": "sqlfun",
               "Url": "https://github.com/go-sqlparser/sqlfun",
               "Description": "Modern SQL parser using Bison (Yacc) and Flex",
-              "CreatedAt": "2021-08-05T03:01:16Z",
-              "UpdatedAt": "2021-08-05T03:01:17Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Yacc"
               }
@@ -488,11 +348,6 @@
               "Name": "sqlgparser",
               "Url": "https://github.com/go-sqlparser/sqlgparser",
               "Description": "SQLite or SQL-92 Parser implemented in Go",
-              "CreatedAt": "2021-08-05T02:59:35Z",
-              "UpdatedAt": "2021-08-05T13:02:54Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -503,11 +358,6 @@
               "Name": "sqlpparser",
               "Url": "https://github.com/go-sqlparser/sqlpparser",
               "Description": "A simple (limited) SQL Parser in Peg",
-              "CreatedAt": "2021-08-05T02:57:13Z",
-              "UpdatedAt": "2021-09-16T19:39:23Z",
-              "Stargazers": {
-                "Stars": 1
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -518,11 +368,6 @@
               "Name": "SQLServerMetadata",
               "Url": "https://github.com/go-sqlparser/SQLServerMetadata",
               "Description": "SQL Server Metadata Toolkit",
-              "CreatedAt": "2021-08-05T17:29:50Z",
-              "UpdatedAt": "2021-08-05T17:29:51Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "C#"
               }
@@ -533,11 +378,6 @@
               "Name": "sqlvalidator",
               "Url": "https://github.com/go-sqlparser/sqlvalidator",
               "Description": "Validates SQL against different dialects",
-              "CreatedAt": "2021-08-12T23:53:45Z",
-              "UpdatedAt": "2021-08-12T23:53:46Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -548,11 +388,16 @@
               "Name": "te",
               "Url": "https://github.com/go-sqlparser/te",
               "Description": "Package te implements temporal expressions.",
-              "CreatedAt": "2021-08-05T23:12:42Z",
-              "UpdatedAt": "2021-08-05T23:12:43Z",
-              "Stargazers": {
-                "Stars": 0
-              },
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "Go"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "vitess-sqlparser",
+              "Url": "https://github.com/go-sqlparser/vitess-sqlparser",
+              "Description": "simply SQL Parser for Go ( powered by vitess and TiDB )",
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
@@ -563,11 +408,6 @@
               "Name": "yacc-examples",
               "Url": "https://github.com/go-sqlparser/yacc-examples",
               "Description": "this is a example for goyacc to parse json",
-              "CreatedAt": "2021-08-07T15:56:25Z",
-              "UpdatedAt": "2021-08-07T15:56:26Z",
-              "Stargazers": {
-                "Stars": 0
-              },
               "PrimaryLanguage": {
                 "PrimaryLanguage": "Go"
               }
